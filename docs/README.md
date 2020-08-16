@@ -1,3 +1,6 @@
+*** WARNING: A fork for tests and play. Use original sources if you want to actually use that code
+*** Thanks to original coders.
+
 ***Warning: This app does not work very well. Yet.
 
 # BlabberTabber
