@@ -1,9 +1,10 @@
-BlabberTabber is for speech researchers only; its results are presented in a manner that would not make sense to a layperson (unless you happen to be a layperson who likes to read diarization results in RTTM format)
+LetMeSpeak is a diarization software to measure time of speech of each participant in a meeting.
+It is conceived as a feminist tool to reestablish equity between men and women in meetings, but can be used for other purposes.
 
-BlabberTabber records a meeting (via your Android device's microphone). When the meeting is finished, it will upload the recording to a server for diarization (who spoke when) and transcription. If that makes you nervous, it should! Don't record anything you wouldn't want your mother to hear. We do our best to secure the server and purge the recordings frequently, but don't depend on us — we're doing this part-time at night and on weekends.
+WARNING: this software currently send all audio for remote processing to a private company owned server (IBM Dr Watson, currently) and so shouldn't be used for anything confidential.
+We of course plane to change that, but that may takes a -long- time.
 
-BlabberTabber uses the Aalto University's speech diarizer for diarization, and CMU's Sphinx 4 for transcription.
-
-BlabberTabber is a work-in-progress! Let us know if you find bugs https://github.com/blabbertabber/blabbertabber/issues/
+The code is heavily based on BlabberTabber ( https://github.com/blabbertabber/blabbertabber/ ), so much that for now it's a pure copy of it.
 
 Be considerate: when recording a meeting, make sure you have the consent of everyone at the meeting. If you don't, you may be breaking the law.
+
